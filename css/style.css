@@ -95,7 +95,7 @@ footer{
     align-items: center;
     width: 100%;
   }
- .one, .two, .three, .four, .five, .six, .seven, .eigth{
+  .card{
    /* flex: 1; */
-   width: 100%;
+   /* width: 100%; */
  }
